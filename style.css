@@ -90,6 +90,7 @@ body * {
   transform: translateY(-50%);
 
   animation: deslise-out 0.2s;
+  cursor: pointer;
 }
 .light #switch button {
   animation: deslise-in 0.2s forwards;
