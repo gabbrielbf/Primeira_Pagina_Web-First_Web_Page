@@ -88,11 +88,17 @@ body * {
   left: 0;
   z-index: 1;
   transform: translateY(-50%);
+
+  animation: deslise-out 0.2s;
 }
 .light #switch button {
-  right: 0;
-  left: initial;
+  animation: deslise-in 0.2s forwards;
 }
+
+#switch button:hover{
+  outline: 8px solid var(--highlight-color);
+}
+
 #switch span {
   display: block;
   width: 64px;
@@ -177,4 +183,22 @@ footer /* Rodapé da página*/ {
     .light {
       --bg-url: url(./assets/assets/bg-desktop-light.jpg);
     }
+}
+
+/* Animation */
+@keyframes deslise-in {
+  from {
+    left: 0;
+  } 
+  to {
+    left: 50%;
+  } 
+}
+@keyframes deslise-out {
+  from {
+    left: 50%;
+  }
+  to {
+    left: 0;
+  }
 }
