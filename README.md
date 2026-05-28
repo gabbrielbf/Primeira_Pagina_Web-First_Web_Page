@@ -44,4 +44,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito por [Gabriel Bastos](https://github.com/gabbrielbf) com auxílio do Rocket Seat! [Participe da nossa comunidade!](https://discord.gg/rocketseat) ❤️
+Feito por [Gabriel Bastos](https://app.rocketseat.com.br/me/gabbrielbf) com auxílio do Rocket Seat! [Participe da nossa comunidade!](https://discord.gg/rocketseat) ❤️
