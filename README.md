@@ -40,7 +40,7 @@ Você pode visualizar o layout do projeto ORIGINAL no qual me baseei através [D
 
 ## 📃 Licença
 
-Esse projeto está sob a licença MIT.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
