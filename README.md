@@ -1,14 +1,14 @@
-<h1 align="center"> Página Interativa </h1>
+<h1 align="center"> 🌐 Interactive Page </h1>
 
 <p align="center">
-Programa exclusivo e gratuito, desenvolvido por mim com auxílio de aulas assistidas pelo Rocket Seat de tecnologias WEB.
+  An exclusive and free project, developed by me with the help of classes watched on Rocket Seat about WEB technologies.
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-about-the-project">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#memo-license">License</a>
 </p>
 
 <p align="center">
@@ -18,30 +18,34 @@ Programa exclusivo e gratuito, desenvolvido por mim com auxílio de aulas assist
 <br>
 
 <p align="center">
-  <img alt="Página interativa" src=".github/preview.png" width="75%">
+  <img alt="Interactive Page" src=".github/preview.png" width="75%">
 </p>
 
-## 🚀 Tecnologias
+> **Note:** This project was developed as a personal exercise to test my skills and learning progress in web development.
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+## 📌 About the Project
 
-- HTML e CSS
+This project was created with the intent to test my learnings in HTML, CSS, and JS. It features the logo of a barbershop that I manage, along with links that lead to illustrative destinations, created specifically to test the page's functionalities.
+
+## 🚀 Technologies
+
+This project was developed with the following technologies:
+
+- HTML & CSS
 - JavaScript
-- Git e Github
+- Git & Github
 - Figma
-
-## 💻 Projeto
-
-Projeto criado com intuito de testar meus aprendizados em HTML, CSS & Js. Possui a logo de uma barbearia que eu gestiono e links que levam a lugares ilusórios apenas para testar as funcionalidades da minha página.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto ORIGINAL no qual me baseei através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+You can view the ORIGINAL project layout that inspired me through [THIS LINK](https://www.figma.com/community/file/1187422022288947321). It is necessary to have an account on [Figma](https://figma.com) to access it.
 
-## 📃 Licença
+## 📃 License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+This project is under the MIT license. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
-Feito por [Gabriel Bastos](https://app.rocketseat.com.br/me/gabbrielbf) com auxílio do Rocket Seat! [Participe da nossa comunidade!](https://discord.gg/rocketseat) ❤️
+<p align="center">
+  Made with ❤️ by <a href="https://app.rocketseat.com.br/me/gabbrielbf">Gabriel Bastos</a> with the help of Rocket Seat! <a href="https://discord.gg/rocketseat">Join our community!</a>
+</p>
